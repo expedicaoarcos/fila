@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Consulta Fila de Carregamento - CSN Arcos</title>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background: #f2f2f2;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    .container {
+        margin: 30px auto;
+        width: 92%;
+        max-width: 420px;
+        background: white;
+        padding: 25px;
+        border-radius: 12px;
+        box-shadow: 0 0 12px rgba(0,0,0,0.1);
+    }
+
+    input {
+        width: 100%;
+        padding: 14px;
+        font-size: 18px;
+        border-radius: 8px;
+        border: 1px solid #ccc;
+        margin-top: 10px;
+    }
+
+    button {
+        width: 100%;
+        padding: 14px;
+        margin-top: 15px;
+        font-size: 18px;
+        background: #007bff;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+
+    button:active {
+        background: #005bd1;
+    }
+
+    #resultado {
+        margin-top: 25px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+</style>
+
+</head>
+<body>
+
+<div class="container">
+    <h2>Consulta de Fila - CSN Arcos</h2>
+    <p>Digite sua <b>placa</b> :</p>
+
+    <input id="txt" placeholder="Ex: ABC1234" />
+
+    <button onclick="consultar()">Consultar</button>
+
+    <p id="resultado"></p>
+</div>
+    
+<script>
+async function consultar() {
+    document.getElementById("resultado").innerText = "Consultando...";
+
+    try {
+        const res = await fetch("https://Heliohpc.github.io/filacarregamento/fila.json?nocache=" + Date.now());
+        const dados = await res.json();
+
+        let chave = document.getElementById("txt").value.trim().toUpperCase();
+
+        // Buscar SOMENTE pela placa
+        let item = dados.find(x => x.placa && x.placa.toUpperCase() === chave);
+
+        if (!item) {
+            document.getElementById("resultado").innerText = "Placa não encontrada na fila.";
+            return;
+        }
+
+        <!-- let pos = dados.indexOf(item) + 1; -->
+        let pos = item.posicao;
+
+        document.getElementById("resultado").innerHTML =
+            `🚚 <b>Posição na fila:</b> <span style='font-size:26px; color:#007bff;'>${pos}</span><br><br>
+             📦 <b>Produto:</b> ${item.produto}<br>
+             🏷️ <b>Tipo:</b> ${item.tipo}`;
+            
+    } catch (e) {
+        document.getElementById("resultado").innerText = "Erro ao acessar dados.";
+    }
+}
+</script>
+
+</body>
+</html>
