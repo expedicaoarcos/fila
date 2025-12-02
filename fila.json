@@ -31,9 +31,9 @@
   },
   {
     "posicao": 1,
-    "placa": "GAB6G83",
+    "placa": "SOP8F98",
     "produto": "Cimento ensacado",
-    "tipo": "TRANSFEFÊNCIA"
+    "tipo": "CIF"
   },
   {
     "posicao": 2,
@@ -398,6 +398,18 @@
   {
     "posicao": 62,
     "placa": "RVM5B59",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 63,
+    "placa": "AVI3E73",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 64,
+    "placa": "ECM8778",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
