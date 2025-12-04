@@ -1,3 +1,3 @@
 Desenvolvido  por heliohpc@gmail.com
 
-Criado para acompanhamento  da  fila ce carregamento
+Criado para acompanhamento  da  fila de carregamento
