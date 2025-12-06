@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "FCI4695",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
     "placa": "ARM6F75",
     "produto": "Cimento ensacado",
     "tipo": "CIF"
