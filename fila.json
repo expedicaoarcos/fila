@@ -1,31 +1,37 @@
 [
   {
     "posicao": 1,
-    "placa": "CSK4726",
+    "placa": "CSK4879",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
     "posicao": 2,
-    "placa": "FPU3527",
+    "placa": "CSK4726",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
     "posicao": 3,
-    "placa": "CSK4703",
+    "placa": "FPU3527",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
     "posicao": 4,
-    "placa": "GVH7027",
+    "placa": "RTQ8J84",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
     "posicao": 5,
-    "placa": "CSK4879",
+    "placa": "CSK4703",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 6,
+    "placa": "GVH7027",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
@@ -67,43 +73,43 @@
   },
   {
     "posicao": 7,
+    "placa": "RPE4H64",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 8,
     "placa": "EFO6J76",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 8,
+    "posicao": 9,
     "placa": "RDF1A32",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 9,
+    "posicao": 10,
     "placa": "RNW9J70",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 10,
+    "posicao": 11,
     "placa": "GVH1D63",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 11,
+    "posicao": 12,
     "placa": "TCD9I32",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 12,
-    "placa": "AYX7B90",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
     "posicao": 13,
-    "placa": "HNX2F44",
+    "placa": "AYX7B90",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
@@ -926,6 +932,12 @@
   {
     "posicao": 150,
     "placa": "GMO9441",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 151,
+    "placa": "RNN6E05",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
