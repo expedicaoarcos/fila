@@ -1,13 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "KAC1907",
+    "placa": "HTG3B67",
     "produto": "Cimento ensacado",
-    "tipo": "FOB"
+    "tipo": "TRANSFEFÊNCIA"
   },
   {
     "posicao": 2,
     "placa": "OUU6J64",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "HOB1106",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
