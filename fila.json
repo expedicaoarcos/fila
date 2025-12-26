@@ -7,12 +7,18 @@
   },
   {
     "posicao": 2,
+    "placa": "OUN4463",
+    "produto": "Cimento ensacado",
+    "tipo": "TRANSFEFÊNCIA"
+  },
+  {
+    "posicao": 3,
     "placa": "OUU6J64",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 3,
+    "posicao": 4,
     "placa": "HOB1106",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
