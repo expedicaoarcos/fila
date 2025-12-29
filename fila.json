@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "QWS3E01",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
     "placa": "AHC6H95",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
