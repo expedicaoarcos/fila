@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "RVH4C08",
+    "produto": "Cimento ensacado",
+    "tipo": "TRANSFEFÊNCIA"
+  },
+  {
+    "posicao": 2,
     "placa": "FNU8D64",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
