@@ -7,37 +7,37 @@
   },
   {
     "posicao": 2,
-    "placa": "HKM3A30",
-    "produto": "Cimento ensacado",
-    "tipo": "TRANSFEFÊNCIA"
-  },
-  {
-    "posicao": 3,
     "placa": "DJF3H00",
     "produto": "Cimento ensacado",
     "tipo": "TRANSFEFÊNCIA"
   },
   {
-    "posicao": 4,
+    "posicao": 3,
     "placa": "HNM3C88",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 5,
+    "posicao": 4,
     "placa": "SIS2B78",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 6,
+    "posicao": 5,
     "placa": "SHC4D69",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 7,
+    "posicao": 6,
     "placa": "HIA4C89",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 7,
+    "placa": "QTR3J20",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
