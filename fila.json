@@ -1,85 +1,73 @@
 [
   {
     "posicao": 1,
-    "placa": "MCC2495",
-    "produto": "Cimento ensacado",
-    "tipo": "TRANSFEFÊNCIA"
-  },
-  {
-    "posicao": 2,
     "placa": "DMV2F22",
     "produto": "Cimento ensacado",
     "tipo": "TRANSFEFÊNCIA"
   },
   {
-    "posicao": 3,
+    "posicao": 2,
     "placa": "OUN4463",
     "produto": "Cimento ensacado",
     "tipo": "TRANSFEFÊNCIA"
   },
   {
-    "posicao": 4,
+    "posicao": 3,
     "placa": "HNM3C88",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 5,
+    "posicao": 4,
     "placa": "TAZ9B84",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 6,
+    "posicao": 5,
     "placa": "BDG9E41",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 7,
-    "placa": "GDO9D38",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 8,
+    "posicao": 6,
     "placa": "NYR8H79",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 9,
-    "placa": "QRB7F94",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 10,
+    "posicao": 7,
     "placa": "SIS2B78",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 11,
+    "posicao": 8,
     "placa": "SHC4D69",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 12,
+    "posicao": 9,
     "placa": "GPZ4802",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 13,
+    "posicao": 10,
     "placa": "GMO9441",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 14,
+    "posicao": 11,
     "placa": "BTO6987",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 12,
+    "placa": "PJX8I44",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
