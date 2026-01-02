@@ -7,19 +7,19 @@
   },
   {
     "posicao": 2,
+    "placa": "IPE9B22",
+    "produto": "Cimento ensacado",
+    "tipo": "TRANSFEFÊNCIA"
+  },
+  {
+    "posicao": 3,
     "placa": "HNM3C88",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 3,
-    "placa": "TAZ9B84",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
     "posicao": 4,
-    "placa": "BDG9E41",
+    "placa": "TAZ9B84",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
