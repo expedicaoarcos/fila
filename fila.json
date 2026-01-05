@@ -7,7 +7,19 @@
   },
   {
     "posicao": 2,
+    "placa": "GXM7370",
+    "produto": "Cimento ensacado",
+    "tipo": "TRANSFEFÊNCIA"
+  },
+  {
+    "posicao": 3,
     "placa": "CUC3746",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 4,
+    "placa": "KMH6D89",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
