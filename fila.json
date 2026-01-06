@@ -13,13 +13,25 @@
   },
   {
     "posicao": 2,
-    "placa": "RFF7A19",
+    "placa": "OKM0B36",
     "produto": "Cimento ensacado",
-    "tipo": "FOB"
+    "tipo": "TRANSFEFÊNCIA"
   },
   {
     "posicao": 3,
     "placa": "EMU9G53",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 4,
+    "placa": "MVI7J61",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 5,
+    "placa": "OPH6J71",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
