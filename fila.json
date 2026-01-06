@@ -1,13 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "SQW6C54",
+    "placa": "OWX0005",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "RFF7A19",
     "produto": "Cimento ensacado",
-    "tipo": "TRANSFEFÊNCIA"
+    "tipo": "FOB"
   },
   {
     "posicao": 2,
-    "placa": "RFF7A19",
+    "placa": "AWB8B97",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
