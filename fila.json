@@ -1,1 +1,26 @@
 [
+  {
+    "posicao": 1,
+    "placa": "MTO2H23",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "BBB5I71",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "AVZ5484",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "GPZ4802",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  }
+]
