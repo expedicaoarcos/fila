@@ -6,9 +6,15 @@
     "tipo": "CIF"
   },
   {
-    "posicao": 1,
-    "placa": "AUT4J08",
+    "posicao": 2,
+    "placa": "QQN9C01",
     "produto": "Cimento ensacado",
-    "tipo": "FOB"
+    "tipo": "FCA"
+  },
+  {
+    "posicao": 3,
+    "placa": "QQL7I58",
+    "produto": "Cimento ensacado",
+    "tipo": "FCA"
   }
 ]
