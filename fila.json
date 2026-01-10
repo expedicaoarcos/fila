@@ -1,7 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "TCN1F98",
+    "placa": "PET2H97",
+    "produto": "Cimento ensacado",
+    "tipo": "FCA"
+  },
+  {
+    "posicao": 1,
+    "placa": "RTE4G47",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "UAI1F53",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
