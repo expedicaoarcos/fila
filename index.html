@@ -76,7 +76,8 @@ async function consultar() {
     document.getElementById("resultado").innerText = "Consultando...";
 
     try {
-        const res = await fetch("https://expedicaoarcos.github.io/fila/fila.json?nocache=" + Date.now());
+        //const res = await fetch("https://expedicaoarcos.github.io/fila/fila.json?nocache=" + Date.now());
+        const res = await fetch("fila.json?nocache=" + Date.now());
         const dados = await res.json();
 
         let chave = document.getElementById("txt").value.trim().toUpperCase();
