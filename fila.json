@@ -1,12 +1,6 @@
 [
   {
     "posicao": 1,
-    "placa": "RMN3A68",
-    "produto": "Cimento granel",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 1,
     "placa": "SRL1I03",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
@@ -74,6 +68,18 @@
   {
     "posicao": 10,
     "placa": "HOA1H74",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 11,
+    "placa": "MLE3E20",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 12,
+    "placa": "MUW0239",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
