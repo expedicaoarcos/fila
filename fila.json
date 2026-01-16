@@ -1,13 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "RHP2G88",
+    "placa": "ESU0B38",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "SEM8H39",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 2,
-    "placa": "SEM8H39",
+    "placa": "FAA2E25",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
