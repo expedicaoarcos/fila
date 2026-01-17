@@ -1,8 +1,14 @@
 [
   {
     "posicao": 1,
-    "placa": "QDC5910",
-    "produto": "Cimento ensacado",
+    "placa": "LTF2A99",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "RUW1H19",
+    "produto": "Cimento granel",
     "tipo": "FOB"
   }
 ]
