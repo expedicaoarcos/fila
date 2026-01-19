@@ -1,8 +1,14 @@
 [
   {
     "posicao": 1,
-    "placa": "DMV1F21",
+    "placa": "QXH5J97",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "GMJ1G52",
     "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
+    "tipo": "FOB"
   }
 ]
