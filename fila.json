@@ -1,7 +1,19 @@
 [
   {
     "posicao": 1,
+    "placa": "SSB7E99",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
     "placa": "OAS2H79",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "CUC2837",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
