@@ -25,13 +25,25 @@
   },
   {
     "posicao": 2,
-    "placa": "FBS2004",
+    "placa": "QNV6I06",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 3,
-    "placa": "QNV6I06",
+    "placa": "FBS2004",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 4,
+    "placa": "PLR7F60",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 5,
+    "placa": "JCQ5I81",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
