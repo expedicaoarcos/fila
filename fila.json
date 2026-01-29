@@ -1,7 +1,13 @@
 [
   {
     "posicao": 1,
-    "placa": "RDF1A32",
+    "placa": "IPE9B22",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
+    "placa": "OLL6I93",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
