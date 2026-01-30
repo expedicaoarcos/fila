@@ -6,6 +6,12 @@
     "tipo": "FOB"
   },
   {
+    "posicao": 2,
+    "placa": "OQU1A67",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
     "posicao": 1,
     "placa": "OXH2A71",
     "produto": "Cimento ensacado",
@@ -109,18 +115,12 @@
   },
   {
     "posicao": 17,
-    "placa": "DPF9D23",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 18,
     "placa": "PWB5J33",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 19,
+    "posicao": 18,
     "placa": "RYK7A70",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
