@@ -19,7 +19,13 @@
   },
   {
     "posicao": 4,
-    "placa": "HAG1941",
+    "placa": "DMV2F22",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 5,
+    "placa": "ABY1276",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
@@ -43,7 +49,7 @@
   },
   {
     "posicao": 4,
-    "placa": "DMV3B61",
+    "placa": "MLN3F37",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
