@@ -1,7 +1,13 @@
 [
   {
     "posicao": 1,
-    "placa": "SXY6E60",
+    "placa": "SQY1D60",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
+    "placa": "AUT4J08",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
