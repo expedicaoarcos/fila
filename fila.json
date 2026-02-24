@@ -7,8 +7,26 @@
   },
   {
     "posicao": 2,
-    "placa": "ATL6I09",
+    "placa": "FAT5097",
     "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "PYQ6F71",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "ATX1A73",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
+    "placa": "AYU0G86",
+    "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
 ]
