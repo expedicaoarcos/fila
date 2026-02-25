@@ -7,19 +7,19 @@
   },
   {
     "posicao": 1,
-    "placa": "RFM0B10",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 2,
     "placa": "SFA0135",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 3,
+    "posicao": 2,
     "placa": "BCF2563",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "SFT0A15",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
