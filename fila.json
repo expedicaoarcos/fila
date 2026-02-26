@@ -1,19 +1,25 @@
 [
   {
     "posicao": 1,
-    "placa": "ELT7E42",
+    "placa": "TXQ5E99",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
     "posicao": 2,
-    "placa": "TXQ5E99",
+    "placa": "ELT7E42",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
     "posicao": 3,
     "placa": "GVH7027",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 4,
+    "placa": "FPU3527",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
