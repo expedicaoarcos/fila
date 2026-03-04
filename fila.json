@@ -1,19 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "GFG5G58",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 2,
     "placa": "SFC9F07",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 3,
+    "posicao": 2,
     "placa": "HUK0586",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "GDG2C07",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
