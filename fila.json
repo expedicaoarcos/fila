@@ -7,7 +7,7 @@
   },
   {
     "posicao": 2,
-    "placa": "FOE8936",
+    "placa": "FNR9307",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
@@ -19,6 +19,18 @@
   },
   {
     "posicao": 4,
+    "placa": "FCH4B34",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 5,
+    "placa": "TDT1J79",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 6,
     "placa": "CUC3883",
     "produto": "Cimento granel",
     "tipo": "FOB"
@@ -26,6 +38,12 @@
   {
     "posicao": 1,
     "placa": "KQS9684",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "KAE0B97",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
