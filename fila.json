@@ -1,13 +1,13 @@
 [
   {
     "posicao": 1,
-    "placa": "RTH8C16",
+    "placa": "NJS8G05",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
     "posicao": 2,
-    "placa": "NJS8G05",
+    "placa": "RTH8C16",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
@@ -25,7 +25,13 @@
   },
   {
     "posicao": 3,
-    "placa": "BTT9476",
+    "placa": "MLN5F25",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 4,
+    "placa": "BCS2G35",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
