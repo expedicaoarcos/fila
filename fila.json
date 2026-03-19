@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "HEV3H00",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
     "placa": "RLK6I43",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
