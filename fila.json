@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "HJI7A67",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 1,
     "placa": "NMO6B10",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
