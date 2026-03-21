@@ -7,12 +7,18 @@
   },
   {
     "posicao": 1,
+    "placa": "ERH9F03",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 2,
     "placa": "MUW0239",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
   {
-    "posicao": 2,
+    "posicao": 3,
     "placa": "OQI6503",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
