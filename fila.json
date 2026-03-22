@@ -1,8 +1,14 @@
 [
   {
     "posicao": 1,
-    "placa": "CUC4048",
-    "produto": "Cimento ensacado",
+    "placa": "CUL9A88",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "ELT7E42",
+    "produto": "Cimento granel",
     "tipo": "FOB"
   }
 ]
