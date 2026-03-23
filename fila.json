@@ -37,13 +37,7 @@
   },
   {
     "posicao": 1,
-    "placa": "GUA6H36",
-    "produto": "Cimento ensacado",
-    "tipo": "CIF"
-  },
-  {
-    "posicao": 2,
-    "placa": "HNO6J99",
+    "placa": "RTI4E35",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
@@ -61,7 +55,13 @@
   },
   {
     "posicao": 3,
-    "placa": "APA0I41",
+    "placa": "PLR7F60",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 4,
+    "placa": "OPB8A50",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
