@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "QQH2D78",
+    "produto": "Cimento granel",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
     "placa": "GNS0D51",
     "produto": "Cimento ensacado",
     "tipo": "CIF"
@@ -14,12 +20,6 @@
   {
     "posicao": 3,
     "placa": "DMV2F22",
-    "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
-  },
-  {
-    "posicao": 4,
-    "placa": "QQN9B85",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
