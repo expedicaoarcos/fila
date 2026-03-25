@@ -199,7 +199,13 @@
   },
   {
     "posicao": 30,
-    "placa": "SEM5G01",
+    "placa": "SEN5G01",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 31,
+    "placa": "FUE9H73",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
