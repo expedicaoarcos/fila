@@ -1309,19 +1309,25 @@
   },
   {
     "posicao": 210,
-    "placa": "MIJ7C42",
+    "placa": "CUA7E79",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 211,
-    "placa": "NYX8I59",
+    "placa": "MIJ7C42",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 212,
-    "placa": "CUA7E79",
+    "placa": "NYX8I59",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 213,
+    "placa": "SFE7B66",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
