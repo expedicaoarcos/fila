@@ -1,13 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "RJT8I98",
+    "placa": "GEV3095",
     "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
+    "tipo": "FOB"
   },
   {
-    "posicao": 1,
-    "placa": "GEV3095",
+    "posicao": 2,
+    "placa": "CUW0A89",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "RNA9J34",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
