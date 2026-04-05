@@ -1,8 +1,20 @@
 [
   {
     "posicao": 1,
-    "placa": "RJD5J47",
+    "placa": "HUH7A38",
     "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 1,
+    "placa": "RYC2B76",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "FYM4E47",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
   }
 ]
