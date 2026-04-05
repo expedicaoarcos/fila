@@ -1,8 +1,14 @@
 [
   {
     "posicao": 1,
-    "placa": "NTD6I77",
-    "produto": "Cimento ensacado",
+    "placa": "OUM1B48",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "SUU8A39",
+    "produto": "Cimento granel",
     "tipo": "FOB"
   }
 ]
