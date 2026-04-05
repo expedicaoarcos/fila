@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "BUP5A32",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
     "placa": "PVM8G52",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
