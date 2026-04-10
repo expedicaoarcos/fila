@@ -25,19 +25,19 @@
   },
   {
     "posicao": 2,
-    "placa": "HKF2E25",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 3,
     "placa": "RCN5D23",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 4,
+    "posicao": 3,
     "placa": "ATS0E58",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 4,
+    "placa": "TLS5D08",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
