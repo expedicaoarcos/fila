@@ -12,15 +12,21 @@
     "tipo": "CIF"
   },
   {
-    "posicao": 3,
-    "placa": "BCC5J99",
+    "posicao": 1,
+    "placa": "ORL6C09",
     "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
+    "tipo": "FOB"
   },
   {
-    "posicao": 4,
-    "placa": "KEV0358",
+    "posicao": 2,
+    "placa": "GOA4692",
     "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "NGF0241",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
   }
 ]
