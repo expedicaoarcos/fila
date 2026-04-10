@@ -1,13 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "SYP8H30",
-    "produto": "Cimento ensacado",
+    "placa": "ESU0B38",
+    "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 2,
-    "placa": "MVI7J61",
+    "posicao": 1,
+    "placa": "BQU7A73",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
+    "placa": "SYP8H30",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
