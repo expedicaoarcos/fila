@@ -43,13 +43,13 @@
   },
   {
     "posicao": 1,
-    "placa": "GHZ9307",
+    "placa": "HJI7A56",
     "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
+    "tipo": "CIF"
   },
   {
     "posicao": 2,
-    "placa": "OKM0B36",
+    "placa": "GHZ9307",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
@@ -67,7 +67,19 @@
   },
   {
     "posicao": 2,
-    "placa": "QUU7308",
+    "placa": "JBJ7J77",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "FTP3G05",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 4,
+    "placa": "UFH6D95",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
