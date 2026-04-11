@@ -40,5 +40,17 @@
     "placa": "CUL9A88",
     "produto": "Cimento granel",
     "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "SOP8F98",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 1,
+    "placa": "QND8C94",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
   }
 ]
