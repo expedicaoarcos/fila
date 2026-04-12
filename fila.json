@@ -36,10 +36,16 @@
     "tipo": "FOB"
   },
   {
+    "posicao": 7,
+    "placa": "CUY4B50",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
     "posicao": 1,
-    "placa": "GSW7B24",
+    "placa": "ATH3G92",
     "produto": "Cimento ensacado",
-    "tipo": "CIF"
+    "tipo": "Transferencia (FCA)"
   },
   {
     "posicao": 1,
