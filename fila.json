@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "RIZ9D90",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
     "placa": "MTB8332",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
