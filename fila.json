@@ -30,15 +30,21 @@
     "tipo": "FOB"
   },
   {
+    "posicao": 6,
+    "placa": "FPU3527",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
     "posicao": 1,
-    "placa": "HDV7E88",
+    "placa": "RVH4C06",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
   {
-    "posicao": 2,
-    "placa": "RVH4C06",
+    "posicao": 1,
+    "placa": "FUW4B63",
     "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
+    "tipo": "FOB"
   }
 ]
