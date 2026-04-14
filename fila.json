@@ -24,6 +24,12 @@
     "tipo": "Transferencia (FCA)"
   },
   {
+    "posicao": 2,
+    "placa": "AYB5I98",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
     "posicao": 1,
     "placa": "FUW4B63",
     "produto": "Cimento ensacado",
@@ -31,13 +37,13 @@
   },
   {
     "posicao": 2,
-    "placa": "FTU8J47",
+    "placa": "MMM8D63",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 3,
-    "placa": "MMM8D63",
+    "placa": "RXL5E51",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
