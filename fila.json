@@ -1,24 +1,18 @@
 [
   {
     "posicao": 1,
-    "placa": "RUL2B01",
-    "produto": "Cimento granel",
-    "tipo": "CIF"
-  },
-  {
-    "posicao": 2,
     "placa": "LTF2A99",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 3,
+    "posicao": 2,
     "placa": "NTN5I84",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 4,
+    "posicao": 3,
     "placa": "DAJ6472",
     "produto": "Cimento granel",
     "tipo": "FOB"
