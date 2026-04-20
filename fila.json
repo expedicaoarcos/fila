@@ -1,13 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "JBO1E42",
+    "placa": "AJQ6E33",
     "produto": "Cimento ensacado",
-    "tipo": "CIF"
+    "tipo": "FOB"
   },
   {
-    "posicao": 1,
-    "placa": "AJQ6E33",
+    "posicao": 2,
+    "placa": "KJC5053",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "RNN6E05",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
