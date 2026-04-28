@@ -7,18 +7,12 @@
   },
   {
     "posicao": 2,
-    "placa": "CSK4735",
-    "produto": "Cimento granel",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 3,
     "placa": "TYO7C99",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 4,
+    "posicao": 3,
     "placa": "RMN5B46",
     "produto": "Cimento granel",
     "tipo": "FOB"
@@ -152,6 +146,12 @@
   {
     "posicao": 17,
     "placa": "DVS7J73",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 18,
+    "placa": "GVJ6D99",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
@@ -566,6 +566,12 @@
   {
     "posicao": 69,
     "placa": "KCH3A47",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 70,
+    "placa": "NYX8I59",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
