@@ -13,13 +13,13 @@
   },
   {
     "posicao": 3,
-    "placa": "CUD6I46",
+    "placa": "CUL9A88",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
     "posicao": 4,
-    "placa": "CUL9A88",
+    "placa": "QWV7A72",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
@@ -740,6 +740,12 @@
   {
     "posicao": 102,
     "placa": "NZA8007",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 103,
+    "placa": "OAW8I85",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
