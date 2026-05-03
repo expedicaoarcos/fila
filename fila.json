@@ -1,14 +1,14 @@
 [
   {
     "posicao": 1,
-    "placa": "EVO4C70",
-    "produto": "Cimento granel",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 1,
     "placa": "QOV1G00",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
+    "placa": "JKH1I15",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
   }
 ]
