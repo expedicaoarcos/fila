@@ -73,12 +73,6 @@
   },
   {
     "posicao": 1,
-    "placa": "GRG2378",
-    "produto": "Cimento ensacado",
-    "tipo": "CIF"
-  },
-  {
-    "posicao": 1,
     "placa": "QXM7794",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
@@ -103,37 +97,25 @@
   },
   {
     "posicao": 5,
-    "placa": "HIJ9J76",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 6,
-    "placa": "QNT5B38",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 7,
     "placa": "ARU6618",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 8,
-    "placa": "RTS2D20",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 9,
+    "posicao": 6,
     "placa": "GCI2D14",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 10,
+    "posicao": 7,
     "placa": "KPG9A17",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 8,
+    "placa": "FFW8I68",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
