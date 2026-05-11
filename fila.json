@@ -1,7 +1,13 @@
 [
   {
     "posicao": 1,
-    "placa": "SYS1E50",
+    "placa": "RTH8C16",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "RNA7C28",
     "produto": "Cimento granel",
     "tipo": "FOB"
   }
