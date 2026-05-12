@@ -1,9 +1,9 @@
 [
   {
     "posicao": 1,
-    "placa": "LYM0733",
-    "produto": "Cimento ensacado",
-    "tipo": "CIF"
+    "placa": "CUL9A88",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
   },
   {
     "posicao": 1,
@@ -86,6 +86,12 @@
   {
     "posicao": 10,
     "placa": "EMU7C56",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 11,
+    "placa": "OOW0044",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
