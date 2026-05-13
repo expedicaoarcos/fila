@@ -7,37 +7,37 @@
   },
   {
     "posicao": 2,
-    "placa": "OHG0G54",
-    "produto": "Cimento granel",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 3,
     "placa": "OAX1F41",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 4,
+    "posicao": 3,
     "placa": "MIV3H73",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 5,
+    "posicao": 4,
     "placa": "HMV2H14",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 6,
+    "posicao": 5,
     "placa": "TXQ5E99",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 7,
+    "posicao": 6,
     "placa": "QXY2F63",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 7,
+    "placa": "EZX6C93",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
@@ -62,6 +62,18 @@
   {
     "posicao": 11,
     "placa": "EQT3H50",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 12,
+    "placa": "RTQ8J84",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 13,
+    "placa": "FED1E25",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
@@ -187,13 +199,13 @@
   },
   {
     "posicao": 19,
-    "placa": "RHF7E19",
+    "placa": "TBF9G64",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 20,
-    "placa": "TBF9G64",
+    "placa": "RHF7E19",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
@@ -445,13 +457,13 @@
   },
   {
     "posicao": 62,
-    "placa": "GSW3F61",
+    "placa": "TDH2E59",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 63,
-    "placa": "TDH2E59",
+    "placa": "GSW3F61",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
@@ -595,13 +607,13 @@
   },
   {
     "posicao": 87,
-    "placa": "EZX6C93",
+    "placa": "RTS2D20",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 88,
-    "placa": "RTS2D20",
+    "placa": "OWH0A03",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
