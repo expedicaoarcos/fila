@@ -55,7 +55,7 @@
   },
   {
     "posicao": 1,
-    "placa": "GON0433",
+    "placa": "GKV5F69",
     "produto": "Cimento ensacado",
     "tipo": "CIF"
   },
@@ -764,6 +764,12 @@
   {
     "posicao": 99,
     "placa": "SFJ1C79",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 100,
+    "placa": "MLZ6B60",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
