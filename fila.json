@@ -1,31 +1,7 @@
 [
   {
     "posicao": 1,
-    "placa": "RUW1H19",
-    "produto": "Cimento granel",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 2,
     "placa": "QNY0H79",
-    "produto": "Cimento granel",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 3,
-    "placa": "BFZ8195",
-    "produto": "Cimento granel",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 4,
-    "placa": "QBH6E65",
-    "produto": "Cimento granel",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 5,
-    "placa": "DAO6B60",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
@@ -54,16 +30,10 @@
     "tipo": "CIF"
   },
   {
-    "posicao": 1,
-    "placa": "UDV5B12",
+    "posicao": 5,
+    "placa": "GLH0B28",
     "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
-  },
-  {
-    "posicao": 2,
-    "placa": "CUC4046",
-    "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
+    "tipo": "CIF"
   },
   {
     "posicao": 1,
@@ -817,42 +787,54 @@
   },
   {
     "posicao": 126,
-    "placa": "AQB1A23",
+    "placa": "UDV5B12",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 127,
-    "placa": "PBO7E55",
+    "placa": "CUC4046",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 128,
-    "placa": "TKM8H87",
+    "placa": "AQB1A23",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 129,
-    "placa": "RAD2608",
+    "placa": "PBO7E55",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 130,
-    "placa": "OAP7440",
+    "placa": "TKM8H87",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 131,
-    "placa": "GXH4G52",
+    "placa": "RAD2608",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 132,
+    "placa": "OAP7440",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 133,
+    "placa": "GXH4G52",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 134,
     "placa": "RVH4C08",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
