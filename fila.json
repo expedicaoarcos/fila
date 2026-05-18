@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "TDR7C74",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
     "placa": "GOA6A71",
     "produto": "Cimento ensacado",
     "tipo": "CIF"
