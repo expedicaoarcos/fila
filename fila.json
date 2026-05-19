@@ -13,13 +13,13 @@
   },
   {
     "posicao": 3,
-    "placa": "TXL9A92",
+    "placa": "RKW9G54",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
     "posicao": 4,
-    "placa": "RKW9G54",
+    "placa": "CSK4736",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
@@ -1064,6 +1064,12 @@
   {
     "posicao": 173,
     "placa": "RYK3D10",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 174,
+    "placa": "GXH4G52",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
