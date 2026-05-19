@@ -1,7 +1,7 @@
 [
   {
     "posicao": 1,
-    "placa": "JBO1E42",
+    "placa": "KEV0358",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
@@ -968,6 +968,12 @@
   {
     "posicao": 161,
     "placa": "TEG5E06",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 162,
+    "placa": "OPH6J71",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
