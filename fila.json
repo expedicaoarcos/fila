@@ -1,13 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "LTF2A99",
+    "placa": "SYH5B07",
     "produto": "Cimento granel",
-    "tipo": "FOB"
+    "tipo": "CIF"
   },
   {
     "posicao": 2,
     "placa": "RVI8B34",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "FAT5097",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
