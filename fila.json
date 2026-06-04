@@ -1,19 +1,25 @@
 [
   {
     "posicao": 1,
-    "placa": "QXY2F63",
+    "placa": "QWV9A01",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
     "posicao": 2,
-    "placa": "QWV9A01",
+    "placa": "QXY2F63",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
     "posicao": 3,
     "placa": "RUN7H23",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 4,
+    "placa": "BDM6D38",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
