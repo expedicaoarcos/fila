@@ -1,12 +1,6 @@
 [
   {
     "posicao": 1,
-    "placa": "GSZ2444",
-    "produto": "Cimento ensacado",
-    "tipo": "CIF"
-  },
-  {
-    "posicao": 2,
     "placa": "SOP8I98",
     "produto": "Cimento ensacado",
     "tipo": "CIF"
@@ -115,24 +109,30 @@
   },
   {
     "posicao": 18,
-    "placa": "FJP5605",
+    "placa": "ENG3C52",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
   {
     "posicao": 19,
-    "placa": "EOE2345",
+    "placa": "FJP5605",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
   {
     "posicao": 20,
-    "placa": "OTZ8H41",
+    "placa": "EOE2345",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
   {
     "posicao": 21,
+    "placa": "OTZ8H41",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 22,
     "placa": "FFR2B69",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
@@ -619,6 +619,18 @@
   },
   {
     "posicao": 81,
+    "placa": "HKF2E25",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 82,
+    "placa": "RAI8F67",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 83,
     "placa": "PVJ3C71",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
