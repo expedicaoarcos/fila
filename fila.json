@@ -1,9 +1,9 @@
 [
   {
     "posicao": 1,
-    "placa": "NTD4E08",
-    "produto": "Cimento ensacado",
-    "tipo": "CIF"
+    "placa": "SYS1E50",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
   },
   {
     "posicao": 1,
@@ -56,6 +56,12 @@
   {
     "posicao": 9,
     "placa": "RJC6C55",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 10,
+    "placa": "HNM2D39",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
