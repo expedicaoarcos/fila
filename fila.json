@@ -1,8 +1,14 @@
 [
   {
     "posicao": 1,
-    "placa": "NYF1G57",
+    "placa": "NVS3J14",
     "produto": "Cimento ensacado",
-    "tipo": "CIF"
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
+    "placa": "QUS9D94",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
   }
 ]
