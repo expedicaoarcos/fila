@@ -1,14 +1,20 @@
 [
   {
     "posicao": 1,
-    "placa": "HFD4J16",
+    "placa": "ITI4F00",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
   {
-    "posicao": 2,
-    "placa": "ITI4F00",
+    "posicao": 1,
+    "placa": "QXM7794",
     "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "IEJ8583",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
   }
 ]
