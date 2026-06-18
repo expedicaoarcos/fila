@@ -7,7 +7,7 @@
   },
   {
     "posicao": 2,
-    "placa": "SYS1E50",
+    "placa": "PUV1F94",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
@@ -800,6 +800,12 @@
   {
     "posicao": 122,
     "placa": "SPN6H14",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 123,
+    "placa": "HIJ9J76",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
