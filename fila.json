@@ -1,13 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "MTR6J12",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
+    "placa": "SIB5B08",
+    "produto": "Cimento granel",
+    "tipo": "CIF"
   },
   {
     "posicao": 2,
-    "placa": "GFG6A79",
+    "placa": "EVO4C70",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "QUS3377",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
