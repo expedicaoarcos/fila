@@ -1,9 +1,9 @@
 [
   {
     "posicao": 1,
-    "placa": "HIA4D38",
-    "produto": "Cimento granel",
-    "tipo": "FOB"
+    "placa": "MZY6I40",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
   },
   {
     "posicao": 1,
@@ -175,55 +175,91 @@
   },
   {
     "posicao": 27,
-    "placa": "TZR7E47",
+    "placa": "NWP5208",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 28,
-    "placa": "NDD7F36",
+    "placa": "TZR7E47",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 29,
-    "placa": "JBL3J14",
+    "placa": "NDD7F36",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 30,
-    "placa": "IYN6949",
+    "placa": "JBL3J14",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 31,
-    "placa": "SYY0E62",
+    "placa": "IYN6949",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 32,
-    "placa": "SJH4C00",
+    "placa": "SYY0E62",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 33,
-    "placa": "EZZ7I75",
+    "placa": "SJH4C00",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 34,
-    "placa": "GYI0D80",
+    "placa": "EZZ7I75",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 35,
+    "placa": "GYI0D80",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 36,
     "placa": "BEA3F19",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 37,
+    "placa": "HHK5640",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 38,
+    "placa": "MLN8F82",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 39,
+    "placa": "QOY6J60",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 40,
+    "placa": "RNN6E05",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 41,
+    "placa": "BWY7211",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
