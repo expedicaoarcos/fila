@@ -43,19 +43,19 @@
   },
   {
     "posicao": 2,
-    "placa": "OQF6G01",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 3,
     "placa": "RNR3I29",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 4,
+    "posicao": 3,
     "placa": "OQF5000",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 4,
+    "placa": "DEM2B90",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
