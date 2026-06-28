@@ -1,13 +1,13 @@
 [
   {
     "posicao": 1,
-    "placa": "MJF3077",
+    "placa": "OUN4463",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
   {
     "posicao": 2,
-    "placa": "OUN4463",
+    "placa": "RND2J35",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
@@ -32,6 +32,12 @@
   {
     "posicao": 4,
     "placa": "RVT4F76",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 5,
+    "placa": "NFO1F70",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
