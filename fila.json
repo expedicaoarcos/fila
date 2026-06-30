@@ -1,13 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "KAB2C57",
-    "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
+    "placa": "RFD9C51",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
   },
   {
     "posicao": 2,
-    "placa": "TMM1H71",
+    "placa": "FAT5097",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "KAB2C57",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
