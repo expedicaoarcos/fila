@@ -1,8 +1,14 @@
 [
   {
     "posicao": 1,
-    "placa": "TDN8B95",
-    "produto": "Cimento granel",
+    "placa": "DMN9D77",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "SSD7I65",
+    "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
 ]
