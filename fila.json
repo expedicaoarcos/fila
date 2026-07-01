@@ -31,7 +31,19 @@
   },
   {
     "posicao": 1,
-    "placa": "RHP2G89",
+    "placa": "SEC7D18",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "RHX3A00",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "AWH7G00",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
