@@ -1,13 +1,19 @@
 [
   {
     "posicao": 1,
+    "placa": "LYM0733",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 1,
     "placa": "OTZ8H41",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
   {
     "posicao": 1,
-    "placa": "HBN0B26",
+    "placa": "NVZ0138",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
