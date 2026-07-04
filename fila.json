@@ -1,7 +1,7 @@
 [
   {
     "posicao": 1,
-    "placa": "FAT5097",
+    "placa": "LTF2A99",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
@@ -56,6 +56,12 @@
   {
     "posicao": 9,
     "placa": "CUC4046",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 10,
+    "placa": "RND2J35",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
