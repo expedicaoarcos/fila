@@ -1,6 +1,18 @@
 [
   {
     "posicao": 1,
+    "placa": "QST5B46",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "GOA6A71",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 1,
     "placa": "DAO5B61",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
@@ -446,6 +458,12 @@
   {
     "posicao": 64,
     "placa": "HNM3558",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 65,
+    "placa": "SIS2B78",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
