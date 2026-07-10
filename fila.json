@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "GSW7B24",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 1,
     "placa": "RTI4E59",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
@@ -422,6 +428,12 @@
   {
     "posicao": 64,
     "placa": "TEG4J11",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 65,
+    "placa": "BTO6987",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
