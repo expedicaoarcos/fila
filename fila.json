@@ -13,12 +13,18 @@
   },
   {
     "posicao": 1,
-    "placa": "SIS2B78",
+    "placa": "GLC5I74",
     "produto": "Cimento ensacado",
-    "tipo": "FOB"
+    "tipo": "CIF"
   },
   {
-    "posicao": 2,
+    "posicao": 1,
+    "placa": "CUD3G19",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
     "placa": "RVV2J12",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
