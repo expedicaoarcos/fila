@@ -1,8 +1,14 @@
 [
   {
     "posicao": 1,
-    "placa": "RVH4C08",
+    "placa": "GLC5I74",
     "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 1,
+    "placa": "CLU6I14",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
   }
 ]
