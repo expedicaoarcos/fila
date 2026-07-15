@@ -1,9 +1,9 @@
 [
   {
     "posicao": 1,
-    "placa": "HIA4D38",
+    "placa": "SYH5B36",
     "produto": "Cimento granel",
-    "tipo": "FOB"
+    "tipo": "CIF"
   },
   {
     "posicao": 1,
@@ -578,6 +578,12 @@
   {
     "posicao": 76,
     "placa": "RHV8G41",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 77,
+    "placa": "OVF2E64",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
