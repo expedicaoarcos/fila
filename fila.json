@@ -54,12 +54,6 @@
     "tipo": "CIF"
   },
   {
-    "posicao": 2,
-    "placa": "NVX4717",
-    "produto": "Cimento ensacado",
-    "tipo": "CIF"
-  },
-  {
     "posicao": 1,
     "placa": "IPE9B22",
     "produto": "Cimento ensacado",
@@ -710,6 +704,12 @@
   {
     "posicao": 107,
     "placa": "CSY9632",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 108,
+    "placa": "SSA7B92",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
