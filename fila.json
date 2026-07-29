@@ -67,19 +67,19 @@
   },
   {
     "posicao": 7,
-    "placa": "QNO8D98",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 8,
     "placa": "HNM3C88",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 9,
+    "posicao": 8,
     "placa": "AYP5280",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 9,
+    "placa": "ATV0G97",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
@@ -140,6 +140,12 @@
   {
     "posicao": 19,
     "placa": "LRT2E08",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 20,
+    "placa": "HIA4A15",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
