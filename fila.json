@@ -1,42 +1,48 @@
 [
   {
     "posicao": 1,
-    "placa": "RTO5J85",
-    "produto": "Cimento granel",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 2,
     "placa": "GXM7E94",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 3,
+    "posicao": 2,
     "placa": "QXY7J80",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 4,
+    "posicao": 3,
     "placa": "OUH3A51",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 5,
+    "posicao": 4,
     "placa": "RFD9C51",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 6,
+    "posicao": 5,
     "placa": "QBH6E65",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
+    "posicao": 6,
+    "placa": "FHW8B09",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
     "posicao": 7,
+    "placa": "FXD9435",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 8,
     "placa": "DAJ6472",
     "produto": "Cimento granel",
     "tipo": "FOB"
@@ -67,48 +73,30 @@
   },
   {
     "posicao": 3,
-    "placa": "QWA1J97",
-    "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
-  },
-  {
-    "posicao": 4,
     "placa": "QAV5J31",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
   {
-    "posicao": 5,
-    "placa": "HDV7E88",
-    "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
-  },
-  {
-    "posicao": 6,
+    "posicao": 4,
     "placa": "OUN4463",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
   {
-    "posicao": 7,
-    "placa": "RJL9E12",
-    "produto": "Cimento ensacado",
-    "tipo": "Transferencia (FCA)"
-  },
-  {
-    "posicao": 8,
+    "posicao": 5,
     "placa": "SRN1I72",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
   {
-    "posicao": 9,
+    "posicao": 6,
     "placa": "HTG3B67",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
   {
-    "posicao": 10,
+    "posicao": 7,
     "placa": "QQG8671",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
