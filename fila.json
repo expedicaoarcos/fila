@@ -31,7 +31,7 @@
   },
   {
     "posicao": 2,
-    "placa": "RUC7B19",
+    "placa": "SOQ9D20",
     "produto": "Cimento ensacado",
     "tipo": "CIF"
   },
@@ -176,6 +176,12 @@
   {
     "posicao": 24,
     "placa": "HGK9J90",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 25,
+    "placa": "FGU2191",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
