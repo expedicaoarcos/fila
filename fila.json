@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "GLI2787",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 1,
     "placa": "PXP7B54",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
