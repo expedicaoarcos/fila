@@ -1,7 +1,7 @@
 [
   {
     "posicao": 1,
-    "placa": "SOP8F98",
+    "placa": "HFD8803",
     "produto": "Cimento ensacado",
     "tipo": "CIF"
   },
@@ -146,6 +146,12 @@
   {
     "posicao": 24,
     "placa": "RXM2F10",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 25,
+    "placa": "RYK9E10",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
