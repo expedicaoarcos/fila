@@ -1,9 +1,9 @@
 [
   {
     "posicao": 1,
-    "placa": "SPF0E56",
-    "produto": "Cimento granel",
-    "tipo": "FOB"
+    "placa": "HFD3A05",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
   },
   {
     "posicao": 1,
@@ -398,6 +398,12 @@
   {
     "posicao": 65,
     "placa": "ASB2G44",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 66,
+    "placa": "QVW3A67",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
