@@ -337,7 +337,7 @@
   },
   {
     "posicao": 54,
-    "placa": "RXM3I85",
+    "placa": "RXM5I85",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
@@ -836,6 +836,12 @@
   {
     "posicao": 137,
     "placa": "TBN1D79",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 138,
+    "placa": "RMS4E16",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
