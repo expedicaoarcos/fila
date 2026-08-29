@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "RAJ2234",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 2,
     "placa": "RHH3B44",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
@@ -782,12 +788,6 @@
   {
     "posicao": 130,
     "placa": "BWO7086",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 131,
-    "placa": "RAJ2234",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
