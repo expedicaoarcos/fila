@@ -1,8 +1,14 @@
 [
   {
     "posicao": 1,
-    "placa": "HIA4D38",
+    "placa": "SYS1E50",
     "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "QPY4C73",
+    "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
 ]
