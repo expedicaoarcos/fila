@@ -7,7 +7,13 @@
   },
   {
     "posicao": 1,
-    "placa": "DPC8062",
+    "placa": "SIL7C81",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "EGK1H80",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
