@@ -1,7 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "TCN1F98",
+    "placa": "HIA4D38",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "HNX2F44",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "EPA1H24",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
