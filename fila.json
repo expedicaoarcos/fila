@@ -1,7 +1,13 @@
 [
   {
     "posicao": 1,
-    "placa": "DPF9D23",
+    "placa": "SIB5B17",
+    "produto": "Cimento granel",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 1,
+    "placa": "GWI8D43",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
