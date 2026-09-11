@@ -1,9 +1,9 @@
 [
   {
     "posicao": 1,
-    "placa": "ATL6I09",
+    "placa": "QSP1B45",
     "produto": "Cimento granel",
-    "tipo": "FOB"
+    "tipo": "CIF"
   },
   {
     "posicao": 1,
@@ -56,6 +56,12 @@
   {
     "posicao": 9,
     "placa": "DPF5I86",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 10,
+    "placa": "MKX2J55",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
