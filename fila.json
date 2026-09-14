@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "HLD3716",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 1,
     "placa": "EZU2C56",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
