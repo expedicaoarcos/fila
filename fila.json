@@ -1,12 +1,18 @@
 [
   {
     "posicao": 1,
+    "placa": "UEG5B49",
+    "produto": "Cimento granel",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 2,
     "placa": "SPF0E56",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 2,
+    "posicao": 3,
     "placa": "ELE8E06",
     "produto": "Cimento granel",
     "tipo": "FOB"
