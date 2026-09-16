@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "QST5B46",
+    "produto": "Cimento granel",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 1,
     "placa": "LLN2G33",
     "produto": "Cimento ensacado",
     "tipo": "CIF"
