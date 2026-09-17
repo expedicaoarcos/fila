@@ -13,7 +13,7 @@
   },
   {
     "posicao": 2,
-    "placa": "DMV2F22",
+    "placa": "ODF3H25",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
@@ -206,6 +206,12 @@
   {
     "posicao": 32,
     "placa": "SEF4G27",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 33,
+    "placa": "MLB7E05",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
