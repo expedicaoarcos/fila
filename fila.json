@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "CUC3883",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
     "placa": "IAM4D72",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
