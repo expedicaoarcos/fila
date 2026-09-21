@@ -1,8 +1,14 @@
 [
   {
     "posicao": 1,
-    "placa": "EWJ6A65",
-    "produto": "Cimento granel",
+    "placa": "DVT2E24",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "OUY3249",
+    "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
 ]
