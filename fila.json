@@ -36,6 +36,12 @@
     "tipo": "Transferencia (FCA)"
   },
   {
+    "posicao": 5,
+    "placa": "MTZ5E69",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
     "posicao": 1,
     "placa": "BEG4D10",
     "produto": "Cimento ensacado",
@@ -433,7 +439,7 @@
   },
   {
     "posicao": 67,
-    "placa": "MTZ5E69",
+    "placa": "REA3G83",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
