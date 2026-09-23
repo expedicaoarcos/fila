@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "SIB5B17",
+    "produto": "Cimento granel",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 2,
     "placa": "TXT1I51",
     "produto": "Cimento granel",
     "tipo": "FOB"
@@ -170,6 +176,12 @@
   {
     "posicao": 19,
     "placa": "FYT5G81",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 20,
+    "placa": "SFC4D20",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
