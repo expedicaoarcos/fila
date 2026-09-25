@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "SGR7G11",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
     "placa": "QQH2D78",
     "produto": "Cimento ensacado",
     "tipo": "CIF"
