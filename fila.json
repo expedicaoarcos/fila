@@ -1,13 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "OLC2E12",
+    "placa": "NWD3G70",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 2,
-    "placa": "NWD3G70",
+    "placa": "GVI5807",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "BBT6G29",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
