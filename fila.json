@@ -1,9 +1,15 @@
 [
   {
     "posicao": 1,
-    "placa": "TLN1F85",
+    "placa": "SYS1E50",
     "produto": "Cimento granel",
     "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "GSW7B24",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
   },
   {
     "posicao": 1,
