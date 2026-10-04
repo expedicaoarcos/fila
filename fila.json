@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "SIF3H31",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
     "placa": "RND9E94",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
