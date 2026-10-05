@@ -7,13 +7,19 @@
   },
   {
     "posicao": 2,
-    "placa": "TXL9E95",
+    "placa": "TXL9F03",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
   {
     "posicao": 1,
     "placa": "DBM4G85",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "TEH2D64",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
