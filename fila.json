@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "SIA5B25",
+    "produto": "Cimento granel",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 2,
     "placa": "TXT1I51",
     "produto": "Cimento granel",
     "tipo": "FOB"
