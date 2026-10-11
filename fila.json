@@ -1,8 +1,14 @@
 [
   {
     "posicao": 1,
-    "placa": "RHC2G33",
+    "placa": "QUY0555",
     "produto": "Cimento ensacado",
-    "tipo": "FOB"
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 2,
+    "placa": "DDA2G51",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
   }
 ]
