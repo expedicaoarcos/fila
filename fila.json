@@ -1,8 +1,20 @@
 [
   {
     "posicao": 1,
-    "placa": "CUC3883",
-    "produto": "Cimento granel",
+    "placa": "CUD3G19",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 2,
+    "placa": "TYS7H23",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
+    "placa": "ESU1178",
+    "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
 ]
