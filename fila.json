@@ -25,19 +25,25 @@
   },
   {
     "posicao": 5,
-    "placa": "RNQ9G66",
-    "produto": "Cimento granel",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 6,
     "placa": "TEM5F56",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 7,
+    "posicao": 6,
     "placa": "CUC3883",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 7,
+    "placa": "BUS9600",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 8,
+    "placa": "QQG5500",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
