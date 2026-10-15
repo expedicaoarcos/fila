@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "DBL0J22",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
     "placa": "SYS1E50",
     "produto": "Cimento granel",
     "tipo": "FOB"
