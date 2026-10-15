@@ -229,7 +229,19 @@
   },
   {
     "posicao": 31,
-    "placa": "TCH9C19",
+    "placa": "BTS2643",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 32,
+    "placa": "HIH2F58",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 33,
+    "placa": "TZG7B19",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
