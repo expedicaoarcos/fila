@@ -1,13 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "DBL4C95",
+    "placa": "CUD3G19",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
+    "placa": "EUK1H19",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 2,
-    "placa": "EUK1H19",
+    "placa": "BBT7817",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
