@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "PVC7C40",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
     "placa": "JBF4I54",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
