@@ -79,19 +79,19 @@
   },
   {
     "posicao": 7,
-    "placa": "TEH4H16",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 8,
     "placa": "SFT9F89",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 9,
+    "posicao": 8,
     "placa": "TCQ3C20",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 9,
+    "placa": "OWL5H19",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
