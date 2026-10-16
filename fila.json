@@ -1,24 +1,18 @@
 [
   {
     "posicao": 1,
-    "placa": "TCF5B05",
-    "produto": "Cimento granel",
-    "tipo": "CIF"
-  },
-  {
-    "posicao": 2,
     "placa": "OPS5I00",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 3,
+    "posicao": 2,
     "placa": "FAT5097",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
   {
-    "posicao": 4,
+    "posicao": 3,
     "placa": "TEM5F56",
     "produto": "Cimento granel",
     "tipo": "FOB"
