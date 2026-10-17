@@ -1,8 +1,14 @@
 [
   {
     "posicao": 1,
-    "placa": "CUC3883",
-    "produto": "Cimento granel",
+    "placa": "BYP6F32",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "FCA7H45",
+    "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
 ]
