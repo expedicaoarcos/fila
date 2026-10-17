@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "CUD6I38",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
+    "posicao": 1,
     "placa": "GOA4692",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
