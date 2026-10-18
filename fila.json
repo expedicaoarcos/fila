@@ -1,13 +1,25 @@
 [
   {
     "posicao": 1,
-    "placa": "OPA5H87",
+    "placa": "CQU5F02",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "ELT7E42",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "EJV6J04",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 2,
-    "placa": "EJV6J04",
+    "placa": "GFG6A79",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
