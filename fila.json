@@ -48,6 +48,12 @@
     "tipo": "Transferencia (FCA)"
   },
   {
+    "posicao": 4,
+    "placa": "GVQ3E49",
+    "produto": "Cimento ensacado",
+    "tipo": "Transferencia (FCA)"
+  },
+  {
     "posicao": 1,
     "placa": "TCH1I12",
     "produto": "Cimento ensacado",
@@ -61,79 +67,85 @@
   },
   {
     "posicao": 3,
-    "placa": "RFU8J85",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 4,
     "placa": "AVR7B53",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 5,
+    "posicao": 4,
     "placa": "TLE3I05",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 6,
+    "posicao": 5,
     "placa": "OKM9C81",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 7,
+    "posicao": 6,
     "placa": "JDC8E36",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 8,
+    "posicao": 7,
     "placa": "FOP9H82",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 9,
+    "posicao": 8,
     "placa": "ASD0981",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 10,
+    "posicao": 9,
     "placa": "UAG9G06",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 11,
+    "posicao": 10,
     "placa": "DPF9D23",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 12,
+    "posicao": 11,
     "placa": "NPH9H86",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 13,
+    "posicao": 12,
     "placa": "RHF7J30",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 14,
+    "posicao": 13,
     "placa": "AUC3D35",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 15,
+    "posicao": 14,
     "placa": "EFO0A83",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 15,
+    "placa": "ONN0J40",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 16,
+    "placa": "AFT6A01",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
