@@ -1,6 +1,12 @@
 [
   {
     "posicao": 1,
+    "placa": "EWU3G69",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
+  },
+  {
+    "posicao": 1,
     "placa": "KAT3H16",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
