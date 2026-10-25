@@ -1,7 +1,19 @@
 [
   {
     "posicao": 1,
-    "placa": "AAP9492",
+    "placa": "HIA4E39",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 1,
+    "placa": "SFT9F89",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 2,
+    "placa": "SFS9J70",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
