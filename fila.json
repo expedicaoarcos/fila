@@ -13,19 +13,19 @@
   },
   {
     "posicao": 1,
-    "placa": "RYR5H63",
-    "produto": "Cimento ensacado",
-    "tipo": "FOB"
-  },
-  {
-    "posicao": 2,
     "placa": "TEG5C77",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
-    "posicao": 3,
+    "posicao": 2,
     "placa": "RMZ3C57",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "PVA1800",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
