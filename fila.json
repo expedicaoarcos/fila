@@ -114,6 +114,12 @@
     "tipo": "CIF"
   },
   {
+    "posicao": 2,
+    "placa": "ITE2E25",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
+  },
+  {
     "posicao": 1,
     "placa": "MGU1G60",
     "produto": "Cimento ensacado",
@@ -1220,6 +1226,18 @@
   {
     "posicao": 185,
     "placa": "ARM6F75",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 186,
+    "placa": "QPD3539",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 187,
+    "placa": "TEG5E06",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
