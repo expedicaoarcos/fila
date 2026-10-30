@@ -18,6 +18,18 @@
     "tipo": "FOB"
   },
   {
+    "posicao": 4,
+    "placa": "TCL8J26",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 5,
+    "placa": "EZD5D70",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
+  },
+  {
     "posicao": 1,
     "placa": "ITE2E25",
     "produto": "Cimento ensacado",
@@ -793,79 +805,79 @@
   },
   {
     "posicao": 123,
-    "placa": "EJY9I85",
+    "placa": "HFB4G40",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 124,
-    "placa": "OLC3J30",
+    "placa": "EJY9I85",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 125,
-    "placa": "GHM9B07",
+    "placa": "OLC3J30",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 126,
-    "placa": "EQU3F42",
+    "placa": "GHM9B07",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 127,
-    "placa": "TCQ8J79",
+    "placa": "EQU3F42",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 128,
-    "placa": "TDW5D18",
+    "placa": "TCQ8J79",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 129,
-    "placa": "DUR6C75",
+    "placa": "TDW5D18",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 130,
-    "placa": "BAN1G60",
+    "placa": "DUR6C75",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 131,
-    "placa": "FPX6C54",
+    "placa": "BAN1G60",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 132,
-    "placa": "TAI9I06",
+    "placa": "FPX6C54",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 133,
-    "placa": "QBU5G85",
+    "placa": "TAI9I06",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 134,
-    "placa": "RYY2C19",
+    "placa": "QBU5G85",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 135,
-    "placa": "HFD4G40",
+    "placa": "RYY2C19",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
@@ -1478,6 +1490,12 @@
   {
     "posicao": 237,
     "placa": "RTA2D13",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 238,
+    "placa": "SWB4G53",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
