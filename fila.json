@@ -7,12 +7,6 @@
   },
   {
     "posicao": 1,
-    "placa": "GLH0B28",
-    "produto": "Cimento ensacado",
-    "tipo": "CIF"
-  },
-  {
-    "posicao": 2,
     "placa": "MZY6I40",
     "produto": "Cimento ensacado",
     "tipo": "CIF"
@@ -794,6 +788,12 @@
   {
     "posicao": 130,
     "placa": "RAC0D70",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 131,
+    "placa": "GIV7D16",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
