@@ -48,6 +48,12 @@
     "tipo": "CIF"
   },
   {
+    "posicao": 8,
+    "placa": "GKV5F69",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
+  },
+  {
     "posicao": 1,
     "placa": "DAS1759",
     "produto": "Cimento ensacado",
@@ -1357,78 +1363,84 @@
   },
   {
     "posicao": 219,
-    "placa": "TCN1F98",
+    "placa": "QBC3I39",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 220,
-    "placa": "TBP9E78",
+    "placa": "TCN1F98",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 221,
-    "placa": "QOO1505",
+    "placa": "TBP9E78",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 222,
-    "placa": "RFD7C36",
+    "placa": "QOO1505",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 223,
-    "placa": "TFT4F52",
+    "placa": "RFD7C36",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 224,
-    "placa": "AWD5G01",
+    "placa": "TFT4F52",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 225,
-    "placa": "TEG5E06",
+    "placa": "AWD5G01",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 226,
-    "placa": "OUV1787",
+    "placa": "TEG5E06",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 227,
-    "placa": "RYX1D16",
+    "placa": "OUV1787",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 228,
-    "placa": "DPC8062",
+    "placa": "RYX1D16",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 229,
-    "placa": "TEG5C77",
+    "placa": "DPC8062",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 230,
-    "placa": "RFB9B35",
+    "placa": "TEG5C77",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 231,
+    "placa": "RFB9B35",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 232,
     "placa": "UBM2C01",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
