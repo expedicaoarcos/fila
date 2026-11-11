@@ -12,6 +12,12 @@
     "tipo": "CIF"
   },
   {
+    "posicao": 2,
+    "placa": "SOQ9C80",
+    "produto": "Cimento ensacado",
+    "tipo": "CIF"
+  },
+  {
     "posicao": 1,
     "placa": "BSG6275",
     "produto": "Cimento ensacado",
@@ -25,7 +31,7 @@
   },
   {
     "posicao": 3,
-    "placa": "KEV0358",
+    "placa": "SSB8G15",
     "produto": "Cimento ensacado",
     "tipo": "Transferencia (FCA)"
   },
