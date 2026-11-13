@@ -319,13 +319,13 @@
   },
   {
     "posicao": 51,
-    "placa": "HMV3815",
+    "placa": "GIA0H05",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 52,
-    "placa": "GIA0H05",
+    "placa": "HMV3815",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
@@ -1094,6 +1094,12 @@
   {
     "posicao": 180,
     "placa": "JBG1440",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 181,
+    "placa": "ATY2G31",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
