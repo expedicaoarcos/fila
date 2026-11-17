@@ -475,13 +475,13 @@
   },
   {
     "posicao": 70,
-    "placa": "SFC5E45",
+    "placa": "KQS9684",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 71,
-    "placa": "KQS9684",
+    "placa": "SFC5E45",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
@@ -506,6 +506,18 @@
   {
     "posicao": 75,
     "placa": "DPF9D23",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 76,
+    "placa": "DEI8J95",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 77,
+    "placa": "API5E45",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
