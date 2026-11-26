@@ -43,13 +43,13 @@
   },
   {
     "posicao": 6,
-    "placa": "RTQ7C21",
+    "placa": "QMT9G09",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
   {
     "posicao": 7,
-    "placa": "QMT9G09",
+    "placa": "RTQ7C21",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   },
@@ -140,6 +140,12 @@
   {
     "posicao": 22,
     "placa": "JYP7439",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 23,
+    "placa": "OQP0E40",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
