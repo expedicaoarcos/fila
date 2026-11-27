@@ -12,10 +12,10 @@
     "tipo": "FOB"
   },
   {
-    "posicao": 1,
-    "placa": "LYM0733",
-    "produto": "Cimento ensacado",
-    "tipo": "CIF"
+    "posicao": 3,
+    "placa": "TDN8B95",
+    "produto": "Cimento granel",
+    "tipo": "FOB"
   },
   {
     "posicao": 1,
@@ -25,7 +25,13 @@
   },
   {
     "posicao": 2,
-    "placa": "JCL9B70",
+    "placa": "SFY0C75",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "SIG7I72",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
