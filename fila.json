@@ -7,7 +7,7 @@
   },
   {
     "posicao": 2,
-    "placa": "RFZ2G44",
+    "placa": "FEI4D17",
     "produto": "Cimento granel",
     "tipo": "FOB"
   },
@@ -20,6 +20,12 @@
   {
     "posicao": 2,
     "placa": "ESU1178",
+    "produto": "Cimento ensacado",
+    "tipo": "FOB"
+  },
+  {
+    "posicao": 3,
+    "placa": "SFT0A15",
     "produto": "Cimento ensacado",
     "tipo": "FOB"
   }
